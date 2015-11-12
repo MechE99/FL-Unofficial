@@ -14,7 +14,7 @@
                     "architecture": "avr",
                     "version": "1.0.0",
                     "category": "STEM",
-                    "url": "https://github.com/MechE99/test-package.git/STEMCenterUSA.tar.bz2",
+                    "url": "https://rawgit.com/MechE99/test/master/boards/STEMCenterUSA.tar.bz2",
                     "archiveFileName": "STEMCenterUSA.tar.bz2",
                     "checksum": "SHA-256:D3DFD870EA4DE1C2A28874ADF05C862A9196C8761233C5A2F905C88245AAC052",
                     "size": "65374",
@@ -31,5 +31,5 @@
             ],
             "tools": []
 		}
-	}
+	]
 }
