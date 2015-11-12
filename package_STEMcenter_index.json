@@ -16,7 +16,7 @@
                     "category": "STEM",
                     "url": "https://rawgit.com/MechE99/test/master/boards/STEMCenterUSA.tar.bz2",
                     "archiveFileName": "STEMCenterUSA.tar.bz2",
-                    "checksum": "SHA-256:D3DFD870EA4DE1C2A28874ADF05C862A9196C8761233C5A2F905C88245AAC052",
+                    "checksum": "SHA-256:d3dfd870ea4de1c2a2bb74adf05c862a9196cb761233c5a2f905cb8245aac052",
                     "size": "65374",
                     "help": {
                         "online": "http://stemcenterusa.com/faq/"
