@@ -31,12 +31,12 @@
 				{
 					"name": "STEM Boards",
                     "architecture": "avr",
-                    "version": "1.0.1",
+                    "version": "1.0.2",
                     "category": "STEM",
-                    "url": "https://rawgit.com/MechE99/test/master/boards/STEMCenterUSA-1.0.1.tar.bz2",
-                    "archiveFileName": "STEMCenterUSA-1.0.1.tar.bz2",
-                    "checksum": "SHA-256:c2acb192d4744fb32bf37e4f41276f004e49e2dbe096937bb684ed6c9e0b3966",
-                    "size": "65211",
+                    "url": "https://rawgit.com/MechE99/test/master/boards/STEMCenterUSA-1.0.2.tar.bz2",
+                    "archiveFileName": "STEMCenterUSA-1.0.2.tar.bz2",
+                    "checksum": "SHA-256:866ee26dd3987b397647c1e12743d9d598b93696ea795280154b18d48b8368d4",
+                    "size": "65179",
                     "help": {
                         "online": "http://stemcenterusa.com/faq/"
                     },
