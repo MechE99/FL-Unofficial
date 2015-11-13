@@ -27,6 +27,7 @@
                         }
                     ],
                     "toolsDependencies": []
+<<<<<<< HEAD
                 },
 				{
 					"name": "STEM Boards",
@@ -47,6 +48,9 @@
                     ],
                     "toolsDependencies": []				
 				}
+=======
+                }
+>>>>>>> parent of 5902355... v.1.0.1a
             ],
             "tools": []
 		}
