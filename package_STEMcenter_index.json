@@ -14,10 +14,70 @@
                     "architecture": "avr",
                     "version": "0.1.1",
                     "category": "STEM",
+<<<<<<< HEAD
                     "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA-0.1.1.tar.bz2",
                     "archiveFileName": "STEMCenterUSA-0.1.1.tar.bz2",
                     "checksum": "SHA-256:e2b4ac78395d228574781c9a58fa120574f683506faa97f669f7c0d7b354427f",
                     "size": "36956",
+=======
+                    "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA.tar.bz2",
+                    "archiveFileName": "STEMCenterUSA.tar.bz2",
+                    "checksum": "SHA-256:1e1f1695a66c2b8552a2d137b9c31f4db3146d0f81ba183c5786d6b00ce662f6",
+                    "size": "65033",
+>>>>>>> origin
+                    "help": {
+                        "online": "http://stemcenterusa.com/faq/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Fiat Lux"
+                        }
+                    ],
+<<<<<<< HEAD
+                    "toolsDependencies": []
+                }	
+=======
+                    "toolsDependencies": [
+                    	{
+                     	    "packager":"arduino",
+                     	    "name":"avr-gcc",
+                     	    "version":"4.8.1-arduino5"
+                  	},
+                  	{
+                     	    "packager":"arduino",
+                            "name":"avrdude",
+                            "version":"6.0.1-arduino5"
+                  	}
+                    ]
+                },
+		{
+		    "name": "STEM Boards",
+                    "architecture": "avr",
+                    "version": "1.0.1",
+                    "category": "STEM",
+                    "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA-1.0.1.tar.bz2",
+                    "archiveFileName": "STEMCenterUSA-1.0.1.tar.bz2",
+                    "checksum": "SHA-256:c2acb192d4744fb32bf37e4f41276f004e49e2dbe096937bb684ed6c9e0b3966",
+                    "size": "65211",
+                    "help": {
+                        "online": "http://stemcenterusa.com/faq/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Fiat Lux"
+                        }
+                    ],
+                    "toolsDependencies": []				
+		},
+		{
+                    "name": "STEM Boards",
+                    "architecture": "avr",
+                    "version": "2.0.0",
+                    "category": "STEM",
+                    "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA-2.0.0.tar.bz2",
+                    "archiveFileName": "STEMCenterUSA-2.0.0.tar.bz2",
+                    "checksum": "SHA-256:39a1fd021c1e200cfcaf6f7153b79e8ca1df0b604ad9c103ef4ceb625af9478c",
+                    "size": "65210",
                     "help": {
                         "online": "http://stemcenterusa.com/faq/"
                     },
@@ -27,7 +87,8 @@
                         }
                     ],
                     "toolsDependencies": []
-                }	
+                }
+>>>>>>> origin
             ],
             "tools": []
 	}
