@@ -15,11 +15,14 @@
                     "version": "0.1.1",
                     "category": "STEM",
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA-0.1.1.tar.bz2",
                     "archiveFileName": "STEMCenterUSA-0.1.1.tar.bz2",
                     "checksum": "SHA-256:e2b4ac78395d228574781c9a58fa120574f683506faa97f669f7c0d7b354427f",
                     "size": "36956",
 =======
+=======
+>>>>>>> 743ac15c7d74231c502eb082fda8fcb02ff01745
                     "url": "https://github.com/MechE99/FL-Unofficial/raw/master/boards/STEMCenterUSA.tar.bz2",
                     "archiveFileName": "STEMCenterUSA.tar.bz2",
                     "checksum": "SHA-256:1e1f1695a66c2b8552a2d137b9c31f4db3146d0f81ba183c5786d6b00ce662f6",
@@ -34,9 +37,12 @@
                         }
                     ],
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "toolsDependencies": []
                 }	
 =======
+=======
+>>>>>>> 743ac15c7d74231c502eb082fda8fcb02ff01745
                     "toolsDependencies": [
                     	{
                      	    "packager":"arduino",
